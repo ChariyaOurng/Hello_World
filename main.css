@@ -1,0 +1,11 @@
+h1{
+    color:red ;
+    float: right ;
+    font-size: 12px;
+}
+.foo{
+    color:green
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
